@@ -1,0 +1,99 @@
+
+/* index.php design */
+
+/* Background image details */
+body.welcome{
+    background: url(../_image/hostel1.jpg);
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+
+}
+
+/* Background color to the divs */
+.Login{
+    background-color: #0009;
+    color: white;
+    border: 10px solid wheat;
+
+}
+
+.ssubmit{
+    width: 170px;
+}
+
+.alink{
+    color: white;
+    font-weight: bold;
+}
+
+/* ################################################################################################################ */
+
+/* admin.php design */
+
+/* Background image details for all admin pages*/
+body.adminbackground{
+    background: url(../_image/hostel3.jpg);
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+}
+
+.cardb{
+    opacity: 0.75;
+}
+
+/* ################################################################################################################ */
+
+/* studentlist.php design */
+
+/* This design is also used by Room Details table*/
+thead.head{
+    background-color: #DAA520;
+}
+tr.even{
+    background-color: #DAA520;
+}
+
+tr.odd{
+    background-color: #FFDEAD;
+}
+
+/* ################################################################################################################ */
+
+/* roomdetails.php design */
+
+/* dont have any design */
+
+/* ################################################################################################################ */
+
+/* insert.php design */
+
+.createR{
+    background-color: #0009;
+    color: white;    
+    border: 10px solid wheat;
+}
+
+.submit123{
+    width: 150px;
+}
+
+/* ################################################################################################################ */
+
+/* sSignup.php design */
+
+/* Background image details for all admin pages*/
+body.studentbackground{
+    background: url(../_image/hostel2.jpg);
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+}
+
+.cardb{
+    opacity: 0.75;
+}
+
+/* ################################################################################################################ */
+
