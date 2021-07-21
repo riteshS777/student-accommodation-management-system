@@ -3,29 +3,31 @@ In this project I made a student accommodation management system.
 Here I have used HTML, CSS, Javascript, Bootstrap, PHP and MySQL for delevoping this project.
 
 
-Details - In this project one will find a login page, signup page, admin sided pages and student sided pages. This project contains 15 PHP pages, 1 sql database and 4 folders.
+Details - In this project one will find a login page, signup page, admin sided pages and student sided pages. This project contains 16 PHP files, 1 css file, 1 sql database and 4 folders.
 
 Folder details:-
-_css folder contains the styles.css file which have all the necessary styling for this project.
-_icon folder contails all the icons that have been used in this project.
-_image folder contails all the images that have been used in this project.
-_includes folder contails the connect.php file that is used for connection with the database named "students_room".
+1. _css folder contains the styles.css file which have all the necessary styling for this project.
+2. _icon folder contails all the icons that have been used in this project.
+3. _image folder contails all the images that have been used in this project.
+4. _includes folder contails the connect.php file that is used for connection with the database named "students_room".
 
 File details:-
-admin.php - in this file I have made a admin panel for viewing student details, room details and to insert new room.
-change-payment-status.php - in this file I if the admin gets the oaiment from the student then it allocates the room.
-checkin.php - in this file code for checkin to a room has been written.
-checkout.php - in this file code for checkout of a room has been written.
-delete.php - in this file code of delete a room has been written.
-index.php - by opening this file one will land in the login page for both admin and student.
-insert.php - in this file code for adding room has been written.
-logout.php - in this file code for logout of both admin and student has been written.
-roomdetails.php - in this file code for showing all the details of the rooms has been written.
-sdelete.php & sndelete.php - in these files code for deleting student has been written.
-sSignup.php - this file has been used for taking student details and storing in database.
-student.php - this file has been used to checkout of a room for a student.
-student2.php - this file has been used to checkin to a room for a student.
-studentlist.php - is the file where all the activities of the students can be seen by the admin.
+1. admin.php - in this file I have made a admin panel for viewing student details, room details and to insert new room.
+2. change-payment-status.php - in this file I if the admin gets the fees from the student then it allocates the room.
+3. checkin.php - in this file code for checkin to a room has been written.
+4. checkout.php - in this file code for checkout of a room has been written.
+5. delete.php - in this file code of delete a room has been written.
+6. index.php - by opening this file one will land in the login page for both admin and student.
+7. insert.php - in this file code for adding room has been written.
+8. logout.php - in this file code for logout of both admin and student has been written.
+9. roomdetails.php - in this file code for showing all the details of the rooms has been written.
+10. sdelete.php & sndelete.php - in these files code for deleting student has been written.
+11. sSignup.php - this file has been used for taking student details and storing in database.
+12. student.php - this file has been used to checkout of a room for a student.
+13. student2.php - this file has been used to checkin to a room for a student.
+14. studentlist.php - is the file where all the activities of the students can be seen by the admin.
+15. connect.php - this file holds the connection with the database and rest of the project files.
+16. styles.css - this file hold all the necessary details of the design of this project.
 
 Database details:-
 students_room.sql - is the datebase that is holding all the necessory tables and dates that are requird to run this project successfully.
